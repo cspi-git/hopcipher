@@ -1,5 +1,5 @@
 # HopCipher
-Encrypt/Decrypt a string with a password using multiple nodes to provide high security.
+Encrypt/Decrypt a string with a password using multiple nodes to provide high security(Demo).
 
 ## Installation
 Github:
