@@ -1,4 +1,4 @@
-# HopCipher
+# HopCipher (This has a lot of flaws but It's just made for fun, Archived)
 Encrypt/Decrypt a string with a password using multiple nodes to provide high security(Demo).
 
 ## Installation
